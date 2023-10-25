@@ -9,5 +9,6 @@ During the project we installed two libraries :
 - matplotlib; version : 3.7.1
 - numpy; version : 1.26.1
 - gensim; version : 4.3.2
+- plotly.js; version : 2.24.1
 
 All the others librairies were already there in Google Collab.
