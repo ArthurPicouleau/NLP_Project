@@ -6,12 +6,12 @@ The .ipynb file in this Github folder contains all the project tasks.
 During the project we installed two libraries :
 - vaderSentiment; version : 3.3.2
 - pyLDAvis; version : 3.4.1
+
+All the others librairies were already there in Google Collab :
 - matplotlib; version : 3.7.1
 - numpy; version : 1.26.1
 - gensim; version : 4.3.2
 - plotly.js; version : 2.24.1
-
-All the others librairies were already there in Google Collab.
 
 Moroever, here you can find the link to recover our glove model :
 
