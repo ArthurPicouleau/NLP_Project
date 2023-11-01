@@ -1,6 +1,7 @@
 We used Goggle Colab to code.
 To run our project you can run task by task. 
 All you need to do first is run the code that imports all the libraries needed for the project.
+A warning may appear in the results, but this will not prevent the code from working.
 The .ipynb file in this Github folder contains all the project tasks.
 
 During the project we installed two libraries :
